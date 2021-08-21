@@ -1,0 +1,2 @@
+# EasyGoLib
+fork EasyGoLib
