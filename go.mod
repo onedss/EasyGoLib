@@ -1,4 +1,4 @@
-module EasyGoLib
+module github.com/onedss/EasyGoLib
 
 go 1.14
 
